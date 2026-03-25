@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html>
+    <style>
+    body {
+    background: linear-gradient(135deg, #6a5acd, #8a2be2, #ff7f50);
+    color: #2d2d2d;
+}
 
+.sidebar {
+    background: #4b3ca7 !important;
+}
+
+.navbar {
+    background: #6a5acd !important;
+}</style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
